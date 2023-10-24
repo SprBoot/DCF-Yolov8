@@ -23,4 +23,4 @@ We have summarized the original images in the paper, see agronomy.pptx for detai
 
 Acknowledgments
 
-Our paper is an improvement on the Yolov8 algorithm, thanks to the Yolov8 team[https://github.com/ultralytics/ultralytics.git]. Thanks to yolox[https://github.com/Megvii-BaseDetection/YOLOX.git], yolov5 algorithm[https://github.com/ultralytics/yolov5.git]. The code for the heat map comes from https://github.com/z1069614715/objectdetection_script.git.
+Our paper is an improvement on the Yolov8 algorithm, thanks to the Yolov8 team[https://github.com/ultralytics/ultralytics.git]. Thanks to the IP102 dataset team[https://github.com/xpwu95/IP102.git].Thanks to yolox[https://github.com/Megvii-BaseDetection/YOLOX.git], yolov5 algorithm[https://github.com/ultralytics/yolov5.git]. The code for the heat map comes from https://github.com/z1069614715/objectdetection_script.git.
